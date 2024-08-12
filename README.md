@@ -52,3 +52,4 @@ We do NOT care about:
 * Feel free to use any tools you like (Copilot, Google, Cursor, ChatGPT)
 * Don't import any dependencies# cursor-md-parser
 # cursor-md-parser
+# cursor-md-parser
