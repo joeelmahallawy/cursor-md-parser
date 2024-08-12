@@ -51,3 +51,4 @@ We do NOT care about:
 * You do not need any crazy algorithms or data structures for this
 * Feel free to use any tools you like (Copilot, Google, Cursor, ChatGPT)
 * Don't import any dependencies# cursor-md-parser
+# cursor-md-parser
